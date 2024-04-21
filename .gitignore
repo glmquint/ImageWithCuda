@@ -1,0 +1,4 @@
+x64/
+ImageWithCuda*
+*.ppm
+.vs
